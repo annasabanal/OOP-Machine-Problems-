@@ -16,7 +16,7 @@ class Vehicle {
 }
 
 class Bus extends Vehicle {
-    // Inherits properties and methods from Vehicle
+   
 }
 
 $bus = new Bus("School Bus", 80, 8);
